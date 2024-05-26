@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiPC3.props" />
+</Project>
